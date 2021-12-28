@@ -1,2 +1,0 @@
-# diceeGame
-DIcee web game 
